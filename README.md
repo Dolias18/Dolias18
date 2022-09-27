@@ -3,8 +3,9 @@
 - 🔭 Atualmente Estou Desempregado.
 - 🌱 Linguagens em que sei: HTML5 | CSS3 | Bootstrap | Algoritmos | Linguagem C
 - 📖 Estou estudando: Javascript | MySQL | React
-- 🖥️ Sistemas Operacionais: Windows | Android | IOS | Linux 
-- 🤔 Estou procurando ajuda em aprender.
+- 💾 Git e Github.
+- 🖥️ Sistemas Operacionais: Windows | Linux | MacOS | Android | IOS
+- 🤔 Estou procurando ajuda para aprender.
 - 📫 Meio De Contato Via Portfólio.
 
 <div>
